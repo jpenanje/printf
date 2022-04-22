@@ -1,2 +1,1 @@
-# printf
-printf project
+### printf string formats in c 
